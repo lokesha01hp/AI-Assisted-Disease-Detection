@@ -4,15 +4,21 @@ A multi-disease **AI-based medical screening system** capable of detecting early
 
 The main entry point is `app.py`, which handles:
 
-- Brain disease (stroke + tumor) detection via image upload
+- Brain disease (stroke + tumour) detection via image upload
 - Kidney stone detection via image upload
 - Lung cancer detection via image upload
 - Bone/hand fracture detection via image upload
 - Diabetes prediction via questionnaire-based flow
 - Redirect to a separate **Malaria detection Flask service** running on a different port (`127.0.0.1:5001`)
+---
+## 📦 Download Full Project
+
+The complete project, including report, trained models, templates, and Flask code, can be downloaded here:
+
+👉 **Google Drive Download:**  
+**https://drive.google.com/file/d/1vLN8f3wzhw9NMYWoBeOsmzo6CWxhsNSK/view?usp=drive_link**
 
 ---
-
 ## 🚀 Features
 
 - **Brain Disease Detection** (Brain Tumor + Brain Stroke)
@@ -28,14 +34,7 @@ The main entry point is `app.py`, which handles:
 
 ---
 
-## 📦 Download Full Project
 
-The complete project, including report, trained models, templates, and Flask code, can be downloaded here:
-
-👉 **Google Drive Download:**  
-**https://drive.google.com/file/d/1vLN8f3wzhw9NMYWoBeOsmzo6CWxhsNSK/view?usp=drive_link**
-
----
 
 ## 🛠️ Installation & Running Guide
 
@@ -73,24 +72,18 @@ Once all other Flask services are running:
 ```bash
 python app.py
 ```
-
-#### The main web interface will start on: 👉 http://127.0.0.1:5000
-
 ---
 
-## 🖼️ Interface Preview
+# Interface Preview
 
 ### Home Page
 
 ![Home Page](assets/chatbot.png)
 
----
 
 ### Chat Bot
 
 ![Chat Bot](assets/home_page.png)
-
----
 
 ### Login Page
 
