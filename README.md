@@ -77,20 +77,18 @@ python app.py
 
 ## 🖼️ Interface Preview
 
-
-
-### 🏠 Home Page
-![Home Page](static/images/home_page.png)
+### Home Page
+![Home Page](F:\AI-Assisted-Disease-Detection\chatbot.png)
 
 ---
 
-### 🧠 Brain Disease Detection Page
-![Brain Detection](static/images/brain_detection.png)
+### Chat Bot
+![Chat Bot](F:\AI-Assisted-Disease-Detection\home_page.png)
 
 ---
 
-### 🫁 Lung / Kidney / Fracture Detection Page
-![Detection Interface](static/images/detection_interface.png)
+### Login Page
+![Login Page](F:\AI-Assisted-Disease-Detection\image.png)
 
 ---
 
