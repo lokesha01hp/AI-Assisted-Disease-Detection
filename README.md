@@ -1,14 +1,14 @@
-# 🧠 AI-Assisted Early Disease Detection Platform 🧠 
+# 🧠 AI-Assisted Early Disease Detection Platform 🧠
 
 A multi-disease **AI-based medical screening system** capable of detecting early signs of several critical health conditions through medical images and clinical data. This platform integrates multiple trained ML/DL models into a unified web interface powered by Flask.
 
 The main entry point is `app.py`, which handles:
 
-- Brain disease (stroke + tumor) detection via image upload  
-- Kidney stone detection via image upload  
-- Lung cancer detection via image upload  
-- Bone/hand fracture detection via image upload  
-- Diabetes prediction via questionnaire-based flow  
+- Brain disease (stroke + tumor) detection via image upload
+- Kidney stone detection via image upload
+- Lung cancer detection via image upload
+- Bone/hand fracture detection via image upload
+- Diabetes prediction via questionnaire-based flow
 - Redirect to a separate **Malaria detection Flask service** running on a different port (`127.0.0.1:5001`)
 
 ---
@@ -42,7 +42,7 @@ The complete project, including report, trained models, templates, and Flask cod
 ### 1️⃣ Set Up the Project
 
 ```bash
-# Download the project 
+# Download the project
 cd AI-Assisted-Disease-Detection
 
 # Install all required dependencies
@@ -55,6 +55,7 @@ pip install -r requirements.txt
 - Run each of the following in separate terminals:
 
 ### Run each .py file in separate terminals
+
 ```bash
 python BrainTumorDetection.py
 python BrainStrokeDetection.py
@@ -68,27 +69,32 @@ python malaria_app.py
 
 3️⃣ Run the Main Application (app.py)
 Once all other Flask services are running:
+
 ```bash
 python app.py
 ```
 
 #### The main web interface will start on: 👉 http://127.0.0.1:5000
+
 ---
 
 ## 🖼️ Interface Preview
 
 ### Home Page
-![Home Page](F:\AI-Assisted-Disease-Detection\chatbot.png)
+
+![Home Page](assets/chatbot.png)
 
 ---
 
 ### Chat Bot
-![Chat Bot](F:\AI-Assisted-Disease-Detection\home_page.png)
+
+![Chat Bot](assets/home_page.png)
 
 ---
 
 ### Login Page
-![Login Page](F:\AI-Assisted-Disease-Detection\image.png)
+
+![Login Page](assets/login_page.png)
 
 ---
 
@@ -97,8 +103,8 @@ python app.py
 This project was developed collaboratively with the following team members:
 
 **Contributors:**
+
 - **Lokesh H P** — [GitHub](https://github.com/lokesha01hp)
 - **Rahul D V** — [GitHub](https://github.com/rahul5r)
 - **M S Nischith Gowda** — [GitHub](https://github.com/msnichithgowda)
 - **Dhanush M** — [GitHub](https://github.com/dhanushm)
-
