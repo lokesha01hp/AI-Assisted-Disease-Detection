@@ -96,10 +96,11 @@ python app.py
 
 ## ❤️ Credits
 
-Project developed using in-house trained ML/DL models and a modular Flask architecture.  
-Contributors:
+This project was developed collaboratively with the following team members:
 
-- **Lokesh H P** – (GitHub: https://github.com/)  
-- **Rahul D V** – (GitHub: https://github.com/)  
-- **M S Nischith Gowda** – (GitHub: https://github.com)  
-- **Dhanush M** – (GitHub: https://github.com/)
+**Contributors:**
+- **Lokesh H P** — [GitHub](https://github.com/lokesha01hp)
+- **Rahul D V** — [GitHub](https://github.com/rahul5r)
+- **M S Nischith Gowda** — [GitHub](https://github.com/msnichithgowda)
+- **Dhanush M** — [GitHub](https://github.com/dhanushm)
+
