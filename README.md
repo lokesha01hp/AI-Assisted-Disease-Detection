@@ -96,8 +96,6 @@ python app.py
 This project was developed collaboratively with the following team members:
 
 **Contributors:**
-
-- **Lokesh H P** — [GitHub](https://github.com/lokesha01hp)
 - **Rahul D V** — [GitHub](https://github.com/rahul5r)
 - **M S Nischith Gowda** — [GitHub](https://github.com/msnischith)
 - **Dhanush M** — [GitHub](https://github.com/dhanush8m)
