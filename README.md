@@ -36,7 +36,7 @@ The complete project, including report, trained models, templates, and Flask cod
 
 
 
-## 🛠️ Installation & Running Guide
+## Installation & Running Guide
 
 ### 1️) Set Up the Project
 
@@ -66,7 +66,7 @@ python malaria_app.py
 
 ⚠️ **Important Notes**: All services must remain running in their terminals. The main app depends on these services to process predictions. Closing any service will disable its corresponding detection feature.
 
-3️⃣ Run the Main Application (app.py)
+3️) Run the Main Application (app.py)
 Once all other Flask services are running:
 
 ```bash
@@ -91,7 +91,7 @@ python app.py
 
 ---
 
-## ❤️ Credits
+## Credits
 
 This project was developed collaboratively with the following team members:
 
