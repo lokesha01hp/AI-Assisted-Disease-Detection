@@ -11,11 +11,11 @@ The main entry point is `app.py`, which handles:
 - Diabetes prediction via questionnaire-based flow
 - Redirect to a separate **Malaria detection Flask service** running on a different port (`127.0.0.1:5001`)
 ---
-## Download Full Project for Free 👇🏻👇🏻
+## Download Full Project for Free
 
 The complete project, including report, trained models, templates, and Flask code, can be downloaded here:
 
-👉 **Google Drive Download:**  
+👇🏻 **Google Drive Download:**  
 **https://drive.google.com/file/d/1vLN8f3wzhw9NMYWoBeOsmzo6CWxhsNSK/view?usp=drive_link**
 
 ---
