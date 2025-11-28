@@ -38,7 +38,7 @@ The complete project, including report, trained models, templates, and Flask cod
 
 ## 🛠️ Installation & Running Guide
 
-### 1️⃣ Set Up the Project
+### 1️) Set Up the Project
 
 ```bash
 # Download the project
@@ -48,7 +48,7 @@ cd AI-Assisted-Disease-Detection
 pip install -r requirements.txt
 ```
 
-### 2️ Start All Disease-Specific Flask Services
+### 2️) Start All Disease-Specific Flask Services
 
 - Each detection module runs independently and must be started before running the main app.py.
 - Run each of the following in separate terminals:
